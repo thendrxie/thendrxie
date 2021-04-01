@@ -1,5 +1,6 @@
 # Hi! I'm Andrey.
-![Avatar](https://user-images.githubusercontent.com/43712020/113221593-08779c80-928e-11eb-9f6a-aa9d083e4998.png)
+![avatar](https://user-images.githubusercontent.com/43712020/113332529-f1868800-9329-11eb-9acd-4c7eaf8e7670.png)
+
 
 ## About me
 - :student: 16yo russian student.
