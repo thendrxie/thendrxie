@@ -1,5 +1,6 @@
 # Hi! I'm Andrey.
-![avatar](https://user-images.githubusercontent.com/43712020/113332529-f1868800-9329-11eb-9acd-4c7eaf8e7670.png)
+![avatar](https://user-images.githubusercontent.com/43712020/113336387-01ed3180-932f-11eb-8560-d5c191c0f2ea.png)
+
 
 
 ## About me
