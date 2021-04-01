@@ -3,7 +3,7 @@
 
 ## About me
 - :student: 16yo russian student.
-- :heart_eyes_cat: Cat owner and Bleach lover. 
+- :heart_eyes_cat: Cat owner. 
 - :man_technologist: JavaScript and Bash learner.
 - :scroll: History keeper.
 - :headphones: Melomane.
